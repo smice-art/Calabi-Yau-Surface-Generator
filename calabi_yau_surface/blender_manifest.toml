@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "calabi_yau"
+version = "1.3.0"
+name = "Calabi Surface"
+vendor = "SMICE.ART"
+tagline = "Generate Calabi-like complex surfaces."
+description = "Generate Calabi-like complex surfaces with seam welding and custom mathematical shaders."
+maintainer = "Claudio Wabner <ice.smice@gmail.com>"
+type = "add-on"
+website = "https://superhivemarket.com/creators/smice"
+blender_version_min = "3.0.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+platforms = ["windows-x64", "macos-arm64", "linux-x64", "windows-arm64", "macos-x64"]
