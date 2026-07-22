@@ -31,3 +31,4 @@ the Add-on is easy to understand. Just open the N-Panel and play with the settin
 ![Blender](https://img.shields.io/badge/Blender-4.3%2B-orange)
 ![Blender](https://img.shields.io/badge/Blender-4.58-greenorange)
 ![Blender](https://img.shields.io/badge/Blender-5.0-orange)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
