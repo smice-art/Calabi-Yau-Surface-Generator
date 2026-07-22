@@ -14,7 +14,7 @@ The idea behind this add-on was to create a simple way to test the mathematic su
 ## Installation
 Note: Please download the file located under the Assets section of the latest Releases page, rather than the "Download ZIP" button on the main page.
 
-1. Download the latest release from the [Releases page](https://github.com/smice-art/Calabi-Surface/releases).
+1. Download the latest release from the [Releases page](https://github.com/smice-art/Calabi-Yau-Surface-Generator/releases/tag/Calabi-Surface).
 2. In Blender, go to **Edit > Preferences > Get Extensions**.
 3. Click the dropdown in the top right and select **Install from Disk**.
 4. Select your `.zip` file.
