@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="images/addon.jpg" alt="Reverse Baking Banner" width="100%">
+  <img src="images/addon.jpg" alt="Calabi Yau width="100%">
 </p>
 
 # Calabi-Yau
-The Calabi-Yau surface model is a complex geometric space used in theoretical physics to compactify the extra, unseen spatial dimensions required by string theory. It provides a framework where the universe's hidden dimensions are tightly curled up into microscopic shapes, which in turn dictates the fundamental forces and particles of our observable four-dimensional spacetime
+The Calabi-Yau surface model is a complex geometric space used in theoretical pqhysics to compactify the extra, unseen spatial dimensions required by string theory. It provides a framework where the universe's hidden dimensions are tightly curled up into microscopic shapes, which in turn dictates the fundamental forces and particles of our observable four-dimensional spacetime
 
 # Screen Shot
 ![Banner Image](images/01.jpg)
